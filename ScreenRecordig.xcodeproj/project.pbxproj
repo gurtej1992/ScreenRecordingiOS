@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B701D25D265D58BB00909278 /* video.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = B701D25C265D58BB00909278 /* video.mp4 */; };
 		B7257F642654B21D003A0E5F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7257F632654B21D003A0E5F /* AppDelegate.swift */; };
 		B7257F662654B21D003A0E5F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7257F652654B21D003A0E5F /* SceneDelegate.swift */; };
 		B7257F682654B21D003A0E5F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7257F672654B21D003A0E5F /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B701D25C265D58BB00909278 /* video.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = video.mp4; sourceTree = "<group>"; };
 		B7257F602654B21D003A0E5F /* ScreenRecordig.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScreenRecordig.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7257F632654B21D003A0E5F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B7257F652654B21D003A0E5F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				B7257F632654B21D003A0E5F /* AppDelegate.swift */,
 				B7257F652654B21D003A0E5F /* SceneDelegate.swift */,
+				B701D25C265D58BB00909278 /* video.mp4 */,
 				B7257F672654B21D003A0E5F /* ViewController.swift */,
 				B7257F692654B21D003A0E5F /* Main.storyboard */,
 				B7257F6C2654B21D003A0E5F /* Assets.xcassets */,
@@ -126,6 +129,7 @@
 			files = (
 				B7257F702654B21D003A0E5F /* LaunchScreen.storyboard in Resources */,
 				B7257F6D2654B21D003A0E5F /* Assets.xcassets in Resources */,
+				B701D25D265D58BB00909278 /* video.mp4 in Resources */,
 				B7257F6B2654B21D003A0E5F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
